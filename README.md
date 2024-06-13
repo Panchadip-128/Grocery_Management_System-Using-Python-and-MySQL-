@@ -1,7 +1,7 @@
 # Grocery_Management_System-Using-Python-and-MySQL-
 In this python project, we will build a grocery store management application which will be 3 tier application,  Front end: UI is written in HTML/CSS/Javascript/Bootstrap Backend: Python and Flask Database: MySQL
 
-
+![store-bg](https://github.com/Panchadip-128/Grocery_Management_System-Using-Python-and-MySQL-/assets/165953910/43a0980b-0122-47a5-8b72-2091486c5d6f)
 
 Installation Instructions:
 ---------------------------
